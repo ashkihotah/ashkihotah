@@ -14,6 +14,3 @@
         </ul>
     </div>
 </div>
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,bash,powershell,c,cpp,cmake,java,mysql,py,pytorch,tensorflow,godot,matlab,php,html,javascript,processing,md,git,github,docker,vscode,neovim,vim,pycharm,sublime,idea,eclipse,latex)](https://skillicons.dev)
