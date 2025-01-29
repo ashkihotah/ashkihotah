@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <img src="https://github.com/ashkihotah/ashkihotah/blob/main/my_octocat.png" width="256">
     </td>
-    <td width="50%">
+    <td>
       ## 🚀 About Me
       - MSc Student in Computer Science curriculum Artificial Intelligence @ University of Bari Aldo Moro
       - CTF Player and Game Developer at spare time
