@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! I'm Nicolò Resta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/ashkihotah/ashkihotah/blob/main/my_octocat.png">
+  <img src="https://github.com/ashkihotah/ashkihotah/blob/main/my_octocat.png" width="30">
   <h2>🚀 About Me</h2>
 </div>
 
