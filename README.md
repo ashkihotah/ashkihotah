@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Nicolò Resta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
-
-![My Octocat](https://github.com/ashkihotah/ashkihotah/blob/main/my_octocat.png)s
+                                                                                                                            
+<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://github.com/ashkihotah/ashkihotah/blob/main/my_octocat.png)" width="256">s
 
 ## 🚀 About Me
 
