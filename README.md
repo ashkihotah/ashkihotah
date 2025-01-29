@@ -1,4 +1,20 @@
 <h1 align="center"> Hi! I'm Nicolò Resta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/ashkihotah/ashkihotah/blob/main/my_octocat.png" width="256">
+    </td>
+    <td width="50%">
+      ## 🚀 About Me
+      - MSc Student in Computer Science curriculum Artificial Intelligence @ University of Bari Aldo Moro
+      - CTF Player and Game Developer at spare time
+      - Currently developing [pyPRUF](https://github.com/ashkihotah/pyPRUF): a Python library for possibilistic approximate reasoning following a fuzzy relational approach
+      - Other hobbies are playing guitar/videogames, listening to music, sketching and painting
+    </td>
+  </tr>
+</table>
+
 <img src="https://github.com/ashkihotah/ashkihotah/blob/main/my_octocat.png" width="256">
 
 ## 🚀 About Me
