@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="256px">
       <img src="https://github.com/ashkihotah/ashkihotah/blob/main/my_octocat.png" width="256">
     </td>
     <td>
