@@ -3,10 +3,10 @@
 <h2> 🚀 About Me </h2>
 <table border="0">
   <tr>
-    <td width="256px">
-      <img src="https://github.com/ashkihotah/ashkihotah/blob/main/my_octocat.png" width="256">
+    <td width="30%">
+      <img src="https://github.com/ashkihotah/ashkihotah/blob/main/my_octocat.png" style="max-width: 256px; width: 100%; height: auto;">
     </td>
-    <td>
+    <td width="70%">
       <ul>
         <li>MSc Student in Computer Science curriculum Artificial Intelligence @ University of Bari Aldo Moro</li>
         <li>CTF Player and Game Developer at spare time</li>
