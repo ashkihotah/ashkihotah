@@ -7,10 +7,10 @@
       <img src="https://github.com/ashkihotah/ashkihotah/blob/main/my_octocat.png" style="max-width: 256px; width: 100%; height: auto;">
     </td>
     <td width="70%">
-        📚 MSc Student in Computer Science curriculum Artificial Intelligence @ University of Bari Aldo Moro
-        💻 CTF Player and Game Developer at spare time
-        📦 Currently developing <a href="https://github.com/ashkihotah/pyPRUF">pyPRUF</a>: a Python library for possibilistic approximate reasoning following a fuzzy relational approach
-        ✨ Other hobbies are playing guitar/videogames, listening to music, sketching and painting
+        📚 MSc Student in Computer Science curriculum Artificial Intelligence @ University of Bari Aldo Moro <br>
+        💻 CTF Player and Game Developer at spare time <br>
+        📦 Currently developing <a href="https://github.com/ashkihotah/pyPRUF">pyPRUF</a>: a Python library for possibilistic approximate reasoning following a fuzzy relational approach <br>
+        ✨ Other hobbies are playing guitar/videogames, listening to music, sketching and painting <br>
     </td>
   </tr>
 </table>
